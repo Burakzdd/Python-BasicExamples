@@ -1,4 +1,4 @@
-"""import random
+import random
 
 a,b = random.randint(1,1000) , random.randint(1,10000)
 
@@ -7,7 +7,11 @@ if a==b:
 elif a<b:
     print(a, " ", b, "den kucuk")
 else:
-    print(a,b)"""
+    print(a,b)
+    
+    """
+    2
+    """
 a = input()
 a = int(a)
 if a < 0 and a > 100:
