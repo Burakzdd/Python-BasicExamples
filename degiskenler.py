@@ -2,14 +2,14 @@
 """"
 bu yorum
 """
-""""
+
 x = 5
 y = "bes"
 z = True
 print(type(x))
 
 a = input()
-print(a)"""
+print(a)
 
 def toplama():
     a = input()
